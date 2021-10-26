@@ -1,3 +1,9 @@
+All tests passed.
+
+#### Try it out!
+
+If you want to try the converter, open [this link on Replit](https://replit.com/@EFEA/boilerplate-time-calculator#time_calculator.py).
+
 ### Assignment
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
